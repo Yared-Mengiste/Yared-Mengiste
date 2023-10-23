@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yared-Mengiste
-- 👀 I’m interested in coding, anime, books
+- 👀 I’m interested in coding, anime, books etc
 - 🌱 I’m currently learning pythone, java, sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yaredmengiste01@gmail.com
