@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yared-Mengiste
 - 👀 I’m interested in coding, anime, books etc
 - 🌱 I’m currently learning pythone, java, sql
-- 👉 Click Hear : https://yared-mengiste.github.io/CSS-My-Site/
+- 👉 Click Hear : http://stoic.pythonanywhere.com/
 - 👉 Name card : http://yaredmengiste.pythonanywhere.com/
 - 📫 How to reach me : yaredmengiste01@gmail.com
 
