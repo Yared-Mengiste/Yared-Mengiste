@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 👀 I’m passionate about **coding**, **anime**, **books**, and **problem-solving**  
-- 🌱 Currently improving my skills in **Spring Boot**, **React**, and **Data Science**  
+- 🌱 Currently improving my skills in **Laravel**, **Nextjs**, and **Django**  
 - 🎓 Software Engineering student & self-taught developer with a strong focus on **backend systems** and **data-driven applications**  
 - 💡 Experienced in both **web development** and **data analysis** (Udacity Nano Degree in Data Analysis)  
 - 🧰 I enjoy building **scalable full-stack systems**, **automations**, and **intelligent apps**  
