@@ -3,15 +3,15 @@
 <h3 align="center">💻 Full-Stack Developer | 🧠 Data Science Enthusiast | 📚 Lifelong Learner</h3>
 
 ---
+I am a full stack developer based in Ethiopia.
+I design and build whatever I can Imagine.
+If an idea pops into my head, chances are I'll build it.
+My main tech stack ar react, laravel, tailwind, express strong focus on **backend systems** and **data-driven applications**    
+I enjoy building **scalable full-stack systems**, **automations**, and **intelligent apps**  
+[Portfolio](http://stoic.pythonanywhere.com/)  
 
-### 🚀 About Me
-- 👀 I’m passionate about **coding**, **anime**, **books**, and **problem-solving**  
-- 🌱 Currently improving my skills in **Laravel**, **Nextjs**, and **Django**  
-- 🎓 Software Engineering student & self-taught developer with a strong focus on **backend systems** and **data-driven applications**  
-- 💡 Experienced in both **web development** and **data analysis** (Udacity Nano Degree in Data Analysis)  
-- 🧰 I enjoy building **scalable full-stack systems**, **automations**, and **intelligent apps**  
-- 🌐 Explore one of my projects here: 👉 [Stoic App](http://stoic.pythonanywhere.com/)  
-- 📫 Reach me at: **yaredmengiste01@gmail.com**
+I've got a bunch of pinned projects, but my fevorite is the [Freshcart](https://github.com/Yared-Mengiste/Freshcart_Frontend_for_Spring)
+
 
 ---
 
@@ -69,9 +69,7 @@
 
 ### 🎯 Current Goals
 - 🏗️ Build a **local desktop inventory system** for car part sales (Store + Shop)  
-- 🔍 Strengthen expertise in **data science** and **machine learning**  
-- 📈 Develop advanced backend APIs with **Spring Boot** and **Flask**  
-- 🌍 Contribute to **open-source** and mentor beginner developers  
+- 🔍 Strengthen expertise in **Frontend** and **Backend**    
 
 ---
 
