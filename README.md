@@ -57,23 +57,6 @@ I've got a bunch of pinned projects, but my fevorite is the [Freshcart](https://
 
 ---
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yared-Mengiste&show_icons=true&theme=tokyonight" alt="Yared's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yared-Mengiste&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-Mengiste&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 
 ### 🎯 Current Goals
 - 🏗️ Build a **local desktop inventory system** for car part sales (Store + Shop)  
