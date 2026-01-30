@@ -15,7 +15,7 @@ I enjoy building **scalable full-stack systems**, **automations**, and **intelli
 
 [Portfolio](http://stoic.pythonanywhere.com/)  
 
-I've got a bunch of pinned projects, but my fevorite is the [Freshcart](https://github.com/Yared-Mengiste/Freshcart_Frontend_for_Spring)
+I've got a bunch of pinned projects, but my fevorite is the [React Freshcart](https://github.com/Yared-Mengiste/Freshcart_Frontend_for_Spring)
 
 
 ---
