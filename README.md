@@ -15,7 +15,7 @@ I enjoy building **scalable full-stack systems**, **automations**, and **intelli
 
 [Portfolio](http://stoic.pythonanywhere.com/)  
 
-I've got a bunch of pinned projects, but my fevorite is the [React Freshcart](https://github.com/Yared-Mengiste/Freshcart_Frontend_for_Spring)
+I've got a bunch of pinned projects, but my fevorite is the [BookShare](https://sharepdf.vercel.app)
 
 
 ---
@@ -59,7 +59,7 @@ I've got a bunch of pinned projects, but my fevorite is the [React Freshcart](ht
 
 
 ### 🎯 Current Goals
-- 🏗️ Build a **local desktop inventory system** for car part sales (Store + Shop)  
+- 🏗️ Build a **Build A Book Sharing Web App** where people can download and search, upload books and pdf files  
 - 🔍 Strengthen expertise in **Frontend** and **Backend**    
 
 ---
