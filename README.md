@@ -1,9 +1,9 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/Yared-Mengiste">Yared Mengiste</a></h1>
-<h3 align="center">💻 Full-Stack Developer | 🧠 Data Science Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Full-Stack Developer | 🧠 Data Science Enthusiast | 📚 AI/ML Engineer</h3>
 
 ---
-I am [Yared](http://stoic.pythonanywhere.com/) a full stack developer based in Ethiopia.
+I am [Yared](http://stoic.pythonanywhere.com/) a full stack developer and AI/ML engineer based in Ethiopia.
 
 I design and build whatever I can Imagine.
 
