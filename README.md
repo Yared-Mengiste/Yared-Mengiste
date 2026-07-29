@@ -15,7 +15,7 @@ I enjoy building **scalable full-stack systems**, **automations**, and **intelli
 
 [Portfolio](http://stoic.pythonanywhere.com/)  
 
-I've got a bunch of pinned projects, but my fevourite is the [BookShare](https://sharepdf.vercel.app), [FreshCart](https://freshcar-frontend-with-mock-data.vercel.app),[Bello Restaurant Menu/Delivery](yared.dev.et)
+I've got a bunch of pinned projects, but my favorite is the [BookShare](https://sharepdf.vercel.app), [FreshCart](https://freshcar-frontend-with-mock-data.vercel.app),[Bello Restaurant Menu/Delivery](https://yared.dev.et)
 
 
 ---
